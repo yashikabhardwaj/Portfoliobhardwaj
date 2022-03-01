@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfoliobhardwaj/static/css/main.b13543fc.css",
+    "main.js": "/Portfoliobhardwaj/static/js/main.102794a9.js",
+    "static/js/787.db9b214f.chunk.js": "/Portfoliobhardwaj/static/js/787.db9b214f.chunk.js",
+    "static/media/Profile.jpg": "/Portfoliobhardwaj/static/media/Profile.b7fb62401c1f6547f364.jpg",
+    "static/media/Poppins-Thin.ttf": "/Portfoliobhardwaj/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Portfoliobhardwaj/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Portfoliobhardwaj/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/Portfoliobhardwaj/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Portfoliobhardwaj/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Portfoliobhardwaj/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Portfoliobhardwaj/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/Portfoliobhardwaj/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/me.jpg": "/Portfoliobhardwaj/static/media/me.bc8a07e4d1a12625f74e.jpg",
+    "static/media/bg.jpg": "/Portfoliobhardwaj/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/Portfoliobhardwaj/index.html",
+    "static/media/programming-skills.svg": "/Portfoliobhardwaj/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/Portfoliobhardwaj/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/Portfoliobhardwaj/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/Portfoliobhardwaj/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/Portfoliobhardwaj/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.b13543fc.css.map": "/Portfoliobhardwaj/static/css/main.b13543fc.css.map",
+    "main.102794a9.js.map": "/Portfoliobhardwaj/static/js/main.102794a9.js.map",
+    "787.db9b214f.chunk.js.map": "/Portfoliobhardwaj/static/js/787.db9b214f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b13543fc.css",
+    "static/js/main.102794a9.js"
+  ]
+}
